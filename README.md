@@ -1,2 +1,2 @@
-# FSD
-my first python fsd project
+# SRKR
+SRKR_fullstsck
